@@ -6,4 +6,5 @@
 - Socket架構圖解
 
 >![Alt text](resources/socket.jpg)
->*來源:http://www.cs.bgu.ac.il/~spl121/wiki.files/tcp[1].gif
+>
+>來源:http://www.cs.bgu.ac.il/~spl121/wiki.files/tcp[1].gif
