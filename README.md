@@ -3,5 +3,5 @@
 - TCP/IP協定的程式都是採用Socket來進行連接傳輸的介面，最常見的例子就是網頁瀏覽器，底層都是用Socket去做實作通信的介面。
 - Socket是一個網路上的通訊端點，使用者或應用程式只要連結到 Socket 便可以和網路上任何一個通訊端點連線，Socket 之間的通訊就如同作業系統內程序 (process) 之間通訊一樣。
 - Socket架構圖解
-![Alt text](resources/socket.gif)
+![Alt text](resources/socket.jpg)
 *來源:http://www.cs.bgu.ac.il/~spl121/wiki.files/tcp[1].gif
